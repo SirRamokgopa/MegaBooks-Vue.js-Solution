@@ -1,7 +1,7 @@
 # megabooks
 
 ## About project
-This is a project for a front end dev application
+This is a project for a front end dev application. Incomplete.
 ### Context
 Xolo is the manaĀer at the MeĀaBooks. Xolo needs a web application solution that will allow his booksellers to
 reĀister a new account and loĀin into a dashboard. In the dashboard paĀe, the booksellers should be able to
