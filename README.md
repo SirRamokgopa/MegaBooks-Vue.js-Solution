@@ -36,7 +36,12 @@ npm run build
 ```
 
 ### Issues
-Only parts 1 to 4 have been completed
+Only parts 1 to 4 have been completed.
+
 Need to refetch data and display updates when data is updated.
-Project does not have display fake ui for loading
+
+The buttons for "Add Customer", "Update Cusomer Record", "Delete Customer Record", and the search button are not Functional yet.
+
+Project does not have display fake ui for loading.
+
 
